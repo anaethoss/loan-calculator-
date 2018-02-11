@@ -1,0 +1,1 @@
+A very simple loan calculator with vanilla JavaScript 
